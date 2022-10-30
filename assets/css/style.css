@@ -167,7 +167,8 @@ main {
     'first first three three three four four four four four'
     'second second three three three five five six six six'
     'second second three three three five five six six six';
-    grid-gap: 26px 30px;
+    grid-gap: 10px 30px;
+    align-items: flex-end;
 }
 .grid-gallery-first {
     grid-area: first;
